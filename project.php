@@ -42,75 +42,8 @@
         </div>
     </div>
     <!-- Preloader Start -->
-    <header>
-        <!-- Header Start -->
-       <div class="header-area header-transparent">
-            <div class="main-header ">
-                <div class="header-top d-none d-lg-block">
-                   <div class="container-fluid">
-                       <div class="col-xl-12">
-                            <div class="row d-flex justify-content-between align-items-center">
-                                <div class="header-info-left">
-                                    <ul>
-                                        <li>+(91) 9566163232 </li>
-                                        <li>design@gconengineers.com</li>
-                                        <li>Mon - Sat 8:00 - 17:30, Sunday - CLOSED</li>
-                                    </ul>
-                                </div>
-                                <div class="header-info-right">
-                                    <ul class="header-social">    
-                                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                       <li> <a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                       </div>
-                   </div>
-                </div>
-               <div class="header-bottom  header-sticky">
-                    <div class="container-fluid">
-                        <div class="row align-items-center">
-                            <!-- Logo -->
-                            <div class="col-xl-2 col-lg-2 col-md-1">
-                                <div class="logo">
-                                    <!-- logo-1 -->
-                                    <a href="index.html" class="big-logo"><img src="assets/img/gcon-logo.png" style="width:160px;" alt=""></a>
-                                    <!-- logo-2 -->
-                                    <a href="index.html" class="small-logo"><img src="assets/img/gcon-mob-logo.png" style="width:50px;" alt=""></a>
-                                </div>
-                            </div>
-                            <div class="col-xl-8 col-lg-8 col-md-8">
-                                <!-- Main-menu -->
-                                <div class="main-menu f-right d-none d-lg-block">
-                                    <nav> 
-                                                                                <ul id="navigation">
-                                            <li><a href="index.html">Home</a></li>
-                                            <li><a href="about.html">About Us</a></li>
-                                            <li><a href="project.html" style="color: #ff5f13;">Projects</a></li>
-                                            <li><a href="services.html">Services</a></li>
-                                            <li><a href="contact.html">Contact Us</a></li>
-                                        </ul>
-                                    </nav>
-                                </div>
-                            </div>             
-                            <div class="col-xl-2 col-lg-2 col-md-3">
-                                <div class="header-right-btn f-right d-none d-lg-block">
-                                    <a href="Brochure.pdf" target="_blank" class="btn">Brouchure</a>
-                                </div>
-                            </div>
-                            <!-- Mobile Menu -->
-                            <div class="col-12">
-                                <div class="mobile_menu d-block d-lg-none"></div>
-                            </div>
-                        </div>
-                    </div>
-               </div>
-            </div>
-       </div>
-        <!-- Header End -->
-    </header>
+    <?php include('header.php'); ?>
+    
     <main>
         <!-- slider Area Start-->
         <div class="slider-area ">
@@ -122,7 +55,7 @@
                                 <h2>Our projects</h2>
                                 <nav aria-label="breadcrumb ">
                                     <ol class="breadcrumb">
-                                    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                                    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                                     <li class="breadcrumb-item"><a href="#">Project</a></li> 
                                     </ol>
                                 </nav>
@@ -177,9 +110,9 @@
                                                     <img src="assets/img/gcon/college-1.jpg" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Dindugal College</a></h4>
-                                                    <h4><a href="project_details.html">College</a></h4>
+                                                   <a href="project_details.php" class="plus-btn"><i class="ti-plus"></i></a>
+                                                    <h4><a href="project_details.php">Dindugal College</a></h4>
+                                                    <h4><a href="project_details.php">College</a></h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -190,9 +123,9 @@
                                                     <img src="assets/img/gcon/college-2.jpg" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Dindugal College</a></h4>
-                                                    <h4><a href="project_details.html">College</a></h4>
+                                                   <a href="project_details.php" class="plus-btn"><i class="ti-plus"></i></a>
+                                                    <h4><a href="project_details.php">Dindugal College</a></h4>
+                                                    <h4><a href="project_details.php">College</a></h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -203,9 +136,9 @@
                                                     <img src="assets/img/gcon/college-3.jpg" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Dindugal College</a></h4>
-                                                    <h4><a href="project_details.html">College</a></h4>
+                                                   <a href="project_details.php" class="plus-btn"><i class="ti-plus"></i></a>
+                                                    <h4><a href="project_details.php">Dindugal College</a></h4>
+                                                    <h4><a href="project_details.php">College</a></h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -216,9 +149,9 @@
                                                     <img src="assets/img/gcon/college-4.jpg" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Dindugal College</a></h4>
-                                                    <h4><a href="project_details.html">College</a></h4>
+                                                   <a href="project_details.php" class="plus-btn"><i class="ti-plus"></i></a>
+                                                    <h4><a href="project_details.php">Dindugal College</a></h4>
+                                                    <h4><a href="project_details.php">College</a></h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -229,9 +162,9 @@
                                                     <img src="assets/img/gcon/product-1.jpeg" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Building 1</a></h4>
-                                                    <h4><a href="project_details.html">Commercial</a></h4>
+                                                   <a href="project_details.php" class="plus-btn"><i class="ti-plus"></i></a>
+                                                    <h4><a href="project_details.php">Building 1</a></h4>
+                                                    <h4><a href="project_details.php">Commercial</a></h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -242,9 +175,9 @@
                                                     <img src="assets/img/gcon/product-2.jpeg" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Building 2</a></h4>
-                                                    <h4><a href="project_details.html">Commercial</a></h4>
+                                                   <a href="project_details.php" class="plus-btn"><i class="ti-plus"></i></a>
+                                                    <h4><a href="project_details.php">Building 2</a></h4>
+                                                    <h4><a href="project_details.php">Commercial</a></h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -255,9 +188,9 @@
                                                     <img src="assets/img/gcon/product-3.jpeg" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Building 3</a></h4>
-                                                    <h4><a href="project_details.html">Commercial</a></h4>
+                                                   <a href="project_details.php" class="plus-btn"><i class="ti-plus"></i></a>
+                                                    <h4><a href="project_details.php">Building 3</a></h4>
+                                                    <h4><a href="project_details.php">Commercial</a></h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -268,9 +201,9 @@
                                                     <img src="assets/img/gcon/product-4.jpeg" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Building 4</a></h4>
-                                                    <h4><a href="project_details.html">Commercial</a></h4>
+                                                   <a href="project_details.php" class="plus-btn"><i class="ti-plus"></i></a>
+                                                    <h4><a href="project_details.php">Building 4</a></h4>
+                                                    <h4><a href="project_details.php">Commercial</a></h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -291,9 +224,9 @@
                                                     <img src="assets/img/gcon/product-1.jpeg" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Building 1</a></h4>
-                                                    <h4><a href="project_details.html">Commercial</a></h4>
+                                                   <a href="project_details.php" class="plus-btn"><i class="ti-plus"></i></a>
+                                                    <h4><a href="project_details.php">Building 1</a></h4>
+                                                    <h4><a href="project_details.php">Commercial</a></h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -304,9 +237,9 @@
                                                     <img src="assets/img/gcon/product-2.jpeg" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Building 2</a></h4>
-                                                    <h4><a href="project_details.html">Commercial</a></h4>
+                                                   <a href="project_details.php" class="plus-btn"><i class="ti-plus"></i></a>
+                                                    <h4><a href="project_details.php">Building 2</a></h4>
+                                                    <h4><a href="project_details.php">Commercial</a></h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -317,9 +250,9 @@
                                                     <img src="assets/img/gcon/product-3.jpeg" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Building 3</a></h4>
-                                                    <h4><a href="project_details.html">Commercial</a></h4>
+                                                   <a href="project_details.php" class="plus-btn"><i class="ti-plus"></i></a>
+                                                    <h4><a href="project_details.php">Building 3</a></h4>
+                                                    <h4><a href="project_details.php">Commercial</a></h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -330,9 +263,9 @@
                                                     <img src="assets/img/gcon/product-4.jpeg" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Building 4</a></h4>
-                                                    <h4><a href="project_details.html">Commercial</a></h4>
+                                                   <a href="project_details.php" class="plus-btn"><i class="ti-plus"></i></a>
+                                                    <h4><a href="project_details.php">Building 4</a></h4>
+                                                    <h4><a href="project_details.php">Commercial</a></h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -353,9 +286,9 @@
                                                     <img src="assets/img/gcon/college-1.jpg" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Dindugal College</a></h4>
-                                                    <h4><a href="project_details.html">College</a></h4>
+                                                   <a href="project_details.php" class="plus-btn"><i class="ti-plus"></i></a>
+                                                    <h4><a href="project_details.php">Dindugal College</a></h4>
+                                                    <h4><a href="project_details.php">College</a></h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -366,9 +299,9 @@
                                                     <img src="assets/img/gcon/college-2.jpg" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Dindugal College</a></h4>
-                                                    <h4><a href="project_details.html">College</a></h4>
+                                                   <a href="project_details.php" class="plus-btn"><i class="ti-plus"></i></a>
+                                                    <h4><a href="project_details.php">Dindugal College</a></h4>
+                                                    <h4><a href="project_details.php">College</a></h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -379,9 +312,9 @@
                                                     <img src="assets/img/gcon/college-3.jpg" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Dindugal College</a></h4>
-                                                    <h4><a href="project_details.html">College</a></h4>
+                                                   <a href="project_details.php" class="plus-btn"><i class="ti-plus"></i></a>
+                                                    <h4><a href="project_details.php">Dindugal College</a></h4>
+                                                    <h4><a href="project_details.php">College</a></h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -392,9 +325,9 @@
                                                     <img src="assets/img/gcon/college-4.jpg" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                   <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Dindugal College</a></h4>
-                                                    <h4><a href="project_details.html">College</a></h4>
+                                                   <a href="project_details.php" class="plus-btn"><i class="ti-plus"></i></a>
+                                                    <h4><a href="project_details.php">Dindugal College</a></h4>
+                                                    <h4><a href="project_details.php">College</a></h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -410,90 +343,8 @@
         </section>
         <!-- Project Area End -->
     </main>
-    <footer>
-        <!-- Footer Start-->
-        <div class="footer-main">
-             <div class="footer-area footer-padding">
-                 <div class="container">
-                     <div class="row  justify-content-between">
-                         <div class="col-lg-4 col-md-4 col-sm-8">
-                             <div class="single-footer-caption mb-30">
-                                 <!-- logo -->
-                                 <div class="footer-logo">
-                                     <a href="index.html"><img src="assets/img/gcon-logo.png" style="width:160px;" alt=""></a>
-                                 </div>
-                                 <div class="footer-tittle">
-                                     <div class="footer-pera">
-                                         <p class="info1">Gcon Engineers established in the year of 2017, as one of the premier structural
-consultancy firms, actively engaged in Analysis and Design for RCC frame structures,
-Structural design for sewage treatment plant and other underground storage structures,
-steel structures, Post Tensioned Slabs and Design of Bridge and roads.</p>
-                                     </div>
-                                 </div>
-                             </div>
-                         </div>
-                         <div class="col-lg-2 col-md-4 col-sm-5">
-                             <div class="single-footer-caption mb-50">
-                                 <div class="footer-tittle">
-                                     <h4>Quick Links</h4>
-                                     <ul>
-                                         <li><a href="#">About</a></li>
-                                         <li><a href="#">Services</a></li>
-                                         <li><a href="#">Projects</a></li>
-                                         <li><a href="#">Contact Us</a></li>
-                                     </ul>
-                                 </div>
-                             </div>
-                         </div>
-                         <div class="col-lg-3 col-md-4 col-sm-7">
-                             <div class="single-footer-caption mb-50">
-                                 <div class="footer-tittle">
-                                        <h4>Contact</h4>
-                                        <div class="footer-pera">
-                                            <p class="info1">Plot no 16, 
-                                            Door No 1, Deivasigamani Street,
-                                            kamarajar road,
-                                            Pammal, Chennai- 600075</p>
-                                        </div>
-                                        <ul>
-                                            <li><a href="#">Phone: 
-                                                +91 95661 63232
-                                            </a></li>
-                                            <li><a href="#">Cell: 
-                                            +91 63745 49845</a></li>
-                                        </ul>
-                                    </div>
-                             </div>
-                         </div>
-                         <div class="col-lg-3 col-md-6 col-sm-8">
-                             <div class="single-footer-caption mb-50">
-                                 <!-- Form -->
-                                 <div class="footer-form">
-                                     <div id="mc_embed_signup">
-                                         <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="subscribe_form relative mail_part" novalidate="true">
-                                             <input type="email" name="EMAIL" id="newsletter-form-email" placeholder=" Email Address " class="placeholder hide-on-focus" onfocus="this.placeholder = ''" onblur="this.placeholder = ' Email Address '">
-                                             <div class="form-icon">
-                                                 <button type="submit" name="submit" id="newsletter-submit" class="email_icon newsletter-submit button-contactForm">
-                                                     SIGN UP
-                                                 </button>
-                                             </div>
-                                             <div class="mt-10 info"></div>
-                                         </form>
-                                     </div>
-                                 </div>
-                                 <!-- Map -->
-                                 <div class="map-footer">
-                                     <img src="assets/img/gallery/map-footer.png" alt="">
-                                 </div>
-                             </div>
-                         </div>
-                     </div>
-                     
-                 </div>
-             </div>
-       </div>
-        <!-- Footer End-->
-    </footer>
+    
+    <?php include('footer.php'); ?>
    
 	<!-- JS here -->
 	

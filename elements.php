@@ -35,88 +35,8 @@
         </div>
     </div>
     <!-- Preloader Start -->
-    <header>
-        <!-- Header Start -->
-       <div class="header-area header-transparent">
-            <div class="main-header ">
-                <div class="header-top d-none d-lg-block">
-                   <div class="container-fluid">
-                       <div class="col-xl-12">
-                            <div class="row d-flex justify-content-between align-items-center">
-                                <div class="header-info-left">
-                                    <ul>     
-                                        <li>+(123) 1234-567-8901</li>
-                                        <li>info@domain.com</li>
-                                        <li>Mon - Sat 8:00 - 17:30, Sunday - CLOSED</li>
-                                    </ul>
-                                </div>
-                                <div class="header-info-right">
-                                    <ul class="header-social">    
-                                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                                        <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                                       <li> <a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                       </div>
-                   </div>
-                </div>
-               <div class="header-bottom  header-sticky">
-                    <div class="container-fluid">
-                        <div class="row align-items-center">
-                            <!-- Logo -->
-                            <div class="col-xl-2 col-lg-2 col-md-1">
-                                <div class="logo">
-                                    <!-- logo-1 -->
-                                    <a href="index.html" class="big-logo"><img src="assets/img/logo/logo.png" alt=""></a>
-                                    <!-- logo-2 -->
-                                    <a href="index.html" class="small-logo"><img src="assets/img/logo/loder-logo.png" alt=""></a>
-                                </div>
-                            </div>
-                            <div class="col-xl-8 col-lg-8 col-md-8">
-                                <!-- Main-menu -->
-                                <div class="main-menu f-right d-none d-lg-block">
-                                    <nav> 
-                                        <ul id="navigation">                                                                                                                   
-                                            <li><a href="index.html">Home</a></li>
-                                            <li><a href="about.html">About</a></li>
-                                            <li><a href="project.html">Projects</a></li>
-                                            <li><a href="services.html">Services</a></li>
-                                            <li><a href="blog.html">Blog</a>
-                                                <ul class="submenu">
-                                                    <li><a href="blog.html">Blog</a></li>
-                                                    <li><a href="single-blog.html">Blog Details</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="#">Pages</a>
-                                                <ul class="submenu">
-                                                    <li><a href="elements.html">Element</a></li>
-                                                    <li><a href="project_details.html">Projects Details</a></li>
-                                                    <li><a href="services_details.html">Services Details</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="contact.html">Contact</a></li>
-                                        </ul>
-                                    </nav>
-                                </div>
-                            </div>             
-                            <div class="col-xl-2 col-lg-2 col-md-3">
-                                <div class="header-right-btn f-right d-none d-lg-block">
-                                    <a href="#" class="btn">Contact Now</a>
-                                </div>
-                            </div>
-                            <!-- Mobile Menu -->
-                            <div class="col-12">
-                                <div class="mobile_menu d-block d-lg-none"></div>
-                            </div>
-                        </div>
-                    </div>
-               </div>
-            </div>
-       </div>
-        <!-- Header End -->
-    </header>
+	<?php include('header.php'); ?>
+
 	<!-- slider Area Start-->
 	<div class="slider-area ">
 		<div class="single-slider hero-overly slider-height2 d-flex align-items-center" data-background="assets/img/hero/about.jpg">
@@ -127,7 +47,7 @@
 							<h2>Our Element</h2>
 							<nav aria-label="breadcrumb ">
 								<ol class="breadcrumb">
-								<li class="breadcrumb-item"><a href="index.html">Home</a></li>
+								<li class="breadcrumb-item"><a href="index.php">Home</a></li>
 								<li class="breadcrumb-item"><a href="#">Element</a></li> 
 								</ol>
 							</nav>
@@ -786,111 +706,8 @@
 		</div>
 	</div>
 	<!-- End Align Area -->
-	<footer>
-		<!-- Footer Start-->
-		<div class="footer-area footer-bg footer-padding">
-			<div class="container">
-				<div class="row d-flex justify-content-between">
-					<div class="col-xl-3 col-lg-3 col-md-4 col-sm-6">
-					   <div class="single-footer-caption mb-50">
-						 <div class="single-footer-caption mb-30">
-							 <div class="footer-tittle">
-								 <h4>About Us</h4>
-								 <div class="footer-pera">
-									 <p>Heaven fruitful doesn't over lesser days appear creeping seasons so behold bearing</p>
-								</div>
-							 </div>
-						 </div>
-						  <!-- logo -->
-						  <div class="footer-logo">
-							<a href="index.html"><img src="assets/img/logo/logo2_footer.png" alt=""></a>
-						  </div>
-					   </div>
-					</div>
-					<div class="col-xl-3 col-lg-3 col-md-4 col-sm-5">
-						<div class="single-footer-caption mb-50">
-							<div class="footer-tittle">
-								<h4>Contact Info</h4>
-								<ul>
-									<li>
-									<p> Address :Your address goes
-									 here, your demo address.</p>
-									</li>
-									<li><a href="#">Phone : +8880 44338899</a></li>
-									<li><a href="#">Our Photo Gellary</a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-					<div class="col-xl-3 col-lg-3 col-md-3 col-sm-5">
-						<div class="single-footer-caption mb-50">
-							<div class="footer-tittle">
-								<h4>Important Link</h4>
-								<ul>
-									<li><a href="#"> View Project</a></li>
-									<li><a href="#">Contact Us</a></li>
-									<li><a href="#">Testimonial</a></li>
-									<li><a href="#">Proparties</a></li>
-									<li><a href="#">Support</a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-					<div class="col-xl-3 col-lg-3 col-md-4 col-sm-5">
-						<div class="single-footer-caption mb-50">
-							<div class="footer-tittle">
-								<h4>Newsletter</h4>
-								<div class="footer-pera footer-pera2">
-								 <p>Heaven fruitful doesn't over lesser in days. Appear creeping seasons</p>
-							 </div>
-							 <!-- Form -->
-							 <div class="footer-form" >
-								 <div id="mc_embed_signup">
-									 <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01"
-									 method="get" class="subscribe_form relative mail_part">
-										 <input type="email" name="email" id="newsletter-form-email" placeholder="Email Address"
-										 class="placeholder hide-on-focus" onfocus="this.placeholder = ''"
-										 onblur="this.placeholder = ' Email Address '">
-										 <div class="form-icon">
-											 <button type="submit" name="submit" id="newsletter-submit"
-											 class="email_icon newsletter-submit button-contactForm"><img src="assets/img/icon/form_icon.png" alt=""></button>
-										 </div>
-										 <div class="mt-10 info"></div>
-									 </form>
-								 </div>
-							 </div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- footer-bottom aera -->
-		<div class="footer-bottom-area footer-bg">
-			<div class="container">
-				<div class="footer-border">
-					 <div class="row d-flex justify-content-between align-items-center">
-						 <div class="col-xl-10 col-lg-10 ">
-							 <div class="footer-copy-right">
-								 <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-							 </div>
-						 </div>
-						 <div class="col-xl-2 col-lg-2">
-							 <div class="footer-social f-right">
-								 <a href="#"><i class="fab fa-facebook-f"></i></a>
-								 <a href="#"><i class="fab fa-twitter"></i></a>
-								 <a href="#"><i class="fas fa-globe"></i></a>
-								 <a href="#"><i class="fab fa-behance"></i></a>
-							 </div>
-						 </div>
-					 </div>
-				</div>
-			</div>
-		</div>
-		<!-- Footer End-->
-	</footer>
+	
+	<?php include('footer.php'); ?>
  
 	<!-- JS here -->
 		<!-- All JS Custom Plugins Link Here here -->
