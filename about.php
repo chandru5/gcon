@@ -128,8 +128,8 @@ focused on the unique structures and design challenges.</p>
                                     <!-- founder -->
                                     <div class="testimonial-founder d-flex align-items-center">
                                        <div class="founder-text">
-                                            <span>Guru</span>
-                                            <p>Co Founder</p>
+                                            <span>Mr. Chinnaswamy</span>
+                                            <p>Chairman P&C Projects Pvt ltd</p>
                                        </div>
                                     </div>
                                 </div>
@@ -149,12 +149,34 @@ focused on the unique structures and design challenges.</p>
                                     <!-- founder -->
                                     <div class="testimonial-founder d-flex align-items-center">
                                        <div class="founder-text">
-                                            <span>Guru</span>
-                                            <p>Co Founder</p>
+                                            <span>Mr. Raviprasad M.Arch</span>
+                                            <p>Mizzle design Studio</p>
                                        </div>
                                     </div>
                                 </div>
                             </div>
+
+                            <div class="single-testimonial">
+                                 <!-- Testimonial Content -->
+                                <div class="testimonial-caption ">
+                                    <div class="testimonial-top-cap">
+                                        <!-- SVG icon -->
+                                        <svg xmlns="http://www.w3.org/2000/svg"xmlns:xlink="http://www.w3.org/1999/xlink"width="86px" height="63px">
+                                        <path fill-rule="evenodd"  stroke-width="1px" stroke="rgb(255, 95, 19)" fill-opacity="0" fill="rgb(0, 0, 0)"
+                                        d="M82.623,59.861 L48.661,59.861 L48.661,25.988 L59.982,3.406 L76.963,3.406 L65.642,25.988 L82.623,25.988 L82.623,59.861 ZM3.377,25.988 L14.698,3.406 L31.679,3.406 L20.358,25.988 L37.340,25.988 L37.340,59.861 L3.377,59.861 L3.377,25.988 Z"/>
+                                        </svg>
+                                        <p>“I want to join David in thanking and congratulating the GCon team on your accomplishments. This has been a large project for us and this office move is of significant importance to our Company and our employees. You all have contributed to create a wonderful space for our employees to work with one another and have made the process to date smooth for us. Thank you and I hope you’re proud of your efforts and accomplishments.”</p>
+                                    </div>
+                                    <!-- founder -->
+                                    <div class="testimonial-founder d-flex align-items-center">
+                                       <div class="founder-text">
+                                            <span>Mr. Senapathy</span>
+                                            <p>Meet Constructions Pvt ltd</p>
+                                       </div>
+                                    </div>
+                                </div>
+                            </div>
+
                         </div>
                     </div>
                </div>
@@ -180,36 +202,97 @@ focused on the unique structures and design challenges.</p>
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
                         <div class="single-team mb-30">
                             <div class="team-img">
-                                <img src="assets/img/team/team1.png" alt="">
+                                <img src="assets/img/team/sample-team.png" alt="">
                             </div>
                             <div class="team-caption">
-                                <span>UX Designer</span>
-                                <h3>Ethan Welch</h3>
+                                <span>Managing Director</span>
+                                <h3>Guru Ganesan</h3>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
                         <div class="single-team mb-30">
                             <div class="team-img">
-                                <img src="assets/img/team/team2.png" alt="">
+                                <img src="assets/img/team/sample-team.png" alt="">
                             </div>
                             <div class="team-caption">
-                                <span>UX Designer</span>
-                                <h3>Ethan Welch</h3>
+                                <span>Management Head</span>
+                                <h3>Manikandan Ganesan</h3>
                             </div>
                         </div>
                     </div>
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
                         <div class="single-team mb-30">
                             <div class="team-img">
-                                <img src="assets/img/team/team3.png" alt="">
+                                <img src="assets/img/team/sample-team.png" alt="">
                             </div>
                             <div class="team-caption">
-                                <span>UX Designer</span>
-                                <h3>Ethan Welch</h3>
+                                <span>Construction Head</span>
+                                <h3>V.Satheesh</h3>
                             </div>
                         </div>
                     </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
+                        <div class="single-team mb-30">
+                            <div class="team-img">
+                                <img src="assets/img/team/sample-team.png" alt="">
+                            </div>
+                            <div class="team-caption">
+                                <span>Design Head</span>
+                                <h3>A.Rameshkumar</h3>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
+                        <div class="single-team mb-30">
+                            <div class="team-img">
+                                <img src="assets/img/team/sample-team.png" alt="">
+                            </div>
+                            <div class="team-caption">
+                                <span>Admin & Accounts</span>
+                                <h3>R.S.MAHALAKSHMI</h3>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
+                        <div class="single-team mb-30">
+                            <div class="team-img">
+                                <img src="assets/img/team/sample-team.png" alt="">
+                            </div>
+                            <div class="team-caption">
+                                <span>Sr. designer</span>
+                                <h3>V.Harikrishnamoorthy</h3>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
+                        <div class="single-team mb-30">
+                            <div class="team-img">
+                                <img src="assets/img/team/sample-team.png" alt="">
+                            </div>
+                            <div class="team-caption">
+                                <span>Sr. Draftsman</span>
+                                <h3>M.Chitra</h3>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
+                        <div class="single-team mb-30">
+                            <div class="team-img">
+                                <img src="assets/img/team/sample-team.png" alt="">
+                            </div>
+                            <div class="team-caption">
+                                <span>Designer</span>
+                                <h3>P.Sathrukan</h3>
+                            </div>
+                        </div>
+                    </div>
+
+
                 </div>
             </div>
         </div>
