@@ -72,7 +72,12 @@
 
         <div class="container p-5 clients-logo">
             <div class="row">
-                
+                <div class="col m-4">
+                    <div class="card" style="width: 18rem;">
+                        <img src="assets/img/clients/1.png" class="card-img-top" alt="clients - Gcon">
+                    </div>
+                </div>
+
                 <div class="col m-4">
                     <div class="card" style="width: 18rem;">
                         <img src="assets/img/clients/11.jpg" class="card-img-top" alt="clients - Gcon">
@@ -103,12 +108,6 @@
                 <div class="col m-4">
                     <div class="card" style="width: 18rem;">
                         <img src="assets/img/clients/3.jpg" class="card-img-top" alt="clients - Gcon">
-                    </div>
-                </div>
-                
-                <div class="col m-4">
-                    <div class="card" style="width: 18rem;">
-                        <img src="assets/img/clients/1.png" class="card-img-top" alt="clients - Gcon">
                     </div>
                 </div>
 

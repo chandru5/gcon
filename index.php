@@ -103,6 +103,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="row">
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="single-service-cap mb-30">
@@ -138,7 +139,7 @@
                                 <img src="assets/img/service/servicess3.png" alt="">
                             </div>
                             <div class="service-cap">
-                                <h4><a href="services_details.phpaa">Engineering techniques &  implementation</a></h4>
+                                <h4><a href="services_details.php">Engineering techniques & implementation</a></h4>
                                 <a href="services_details.php" class="more-btn">Read More <i class="ti-plus"></i></a>
                             </div>
                             <div class="service-icon">
@@ -146,7 +147,50 @@
                             </div>
                         </div>
                     </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6">
+                        <div class="single-service-cap mb-30">
+                            <div class="service-img">
+                                <img src="assets/img/service/servicess4.png" alt="">
+                            </div>
+                            <div class="service-cap">
+                                <h4><a href="services_details.php">Engineering techniques & implementation</a></h4>
+                                <a href="services_details.php" class="more-btn">Read More <i class="ti-plus"></i></a>
+                            </div>
+                            <div class="service-icon">
+                                <img src="assets/img/icon/services_icon1.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6">
+                        <div class="single-service-cap mb-30">
+                            <div class="service-img">
+                                <img src="assets/img/service/servicess5.png" alt="">
+                            </div>
+                            <div class="service-cap">
+                                <h4><a href="services_details.php">Engineering techniques & implementation</a></h4>
+                                <a href="services_details.php" class="more-btn">Read More <i class="ti-plus"></i></a>
+                            </div>
+                            <div class="service-icon">
+                                <img src="assets/img/icon/services_icon1.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-4 col-md-6">
+                        <div class="single-service-cap mb-30">
+                            <div class="service-img">
+                                <img src="assets/img/service/servicess6.png" alt="">
+                            </div>
+                            <div class="service-cap">
+                                <h4><a href="services_details.php">Engineering techniques & implementation</a></h4>
+                                <a href="" class="more-btn">Read More <i class="ti-plus"></i></a>
+                            </div>
+                            <div class="service-icon">
+                                <img src="assets/img/icon/services_icon1.png" alt="">
+                            </div>
+                        </div>
+                    </div>
                 </div>
+
             </div>
         </div>
         <!-- Services Area End -->
@@ -652,8 +696,8 @@
                                         <span class="counter">34</span>
                                     </div>
                                     <div class="count-text">
-                                        <p>Machinery</p>
-                                        <h5>Tools</h5>
+                                        <p> - </p>
+                                        <h5>Design</h5>
                                     </div>
                                 </div>
                             </div>
@@ -665,8 +709,8 @@
                                         <span class="counter">76</span>
                                     </div>
                                     <div class="count-text">
-                                        <p>Machinery</p>
-                                        <h5>Tools</h5>
+                                        <p> - </p>
+                                        <h5>Construction</h5>
                                     </div>
                                 </div>
                             </div>
@@ -678,8 +722,8 @@
                                         <span class="counter">08</span>
                                     </div>
                                     <div class="count-text">
-                                        <p>Machinery</p>
-                                        <h5>Tools</h5>
+                                        <p> - </p>
+                                        <h5>Design & Build</h5>
                                     </div>
                                 </div>
                             </div>
@@ -718,17 +762,18 @@
                                         <path fill-rule="evenodd"  stroke-width="1px" stroke="rgb(255, 95, 19)" fill-opacity="0" fill="rgb(0, 0, 0)"
                                         d="M82.623,59.861 L48.661,59.861 L48.661,25.988 L59.982,3.406 L76.963,3.406 L65.642,25.988 L82.623,25.988 L82.623,59.861 ZM3.377,25.988 L14.698,3.406 L31.679,3.406 L20.358,25.988 L37.340,25.988 L37.340,59.861 L3.377,59.861 L3.377,25.988 Z"/>
                                         </svg>
-                                        <p>Mollit anim laborum.Dvcuis aute iruxvfg dhjkolohr in re voluptate velit esscillumlore eu quife nrulla parihatur. Excghcepteur sfwsignjnt occa cupidatat non aute iruxvfg dhjinulpadeserunt mollitemnth incididbnt ut;o5tu layjobore mofllit anim. Mollit anim laborum.Dvcuis aute iruxvfg dhjkolohr in re voluptate velit esscillumlore eu quife nrulla parihatur. Excghcepteur sfwsignjn.</p>
+                                        <p>GCon Engineers is one of the best general contractors we've worked with. The entire team tactfully delivered a project of exceptional quality while staying on schedule and under budget. We hope to work with Greiner again in the near future!" </p>
                                     </div>
                                     <!-- founder -->
                                     <div class="testimonial-founder d-flex align-items-center">
                                        <div class="founder-text">
-                                            <span>Jessya Inn</span>
-                                            <p>Co Founder</p>
+                                            <span>Mr. Chinnaswamy</span>
+                                            <p>Chairman P&C Projects Pvt ltd</p>
                                        </div>
                                     </div>
                                 </div>
                             </div>
+                            
                             <!-- Single Testimonial -->
                             <div class="single-testimonial">
                                  <!-- Testimonial Content -->
@@ -739,17 +784,39 @@
                                         <path fill-rule="evenodd"  stroke-width="1px" stroke="rgb(255, 95, 19)" fill-opacity="0" fill="rgb(0, 0, 0)"
                                         d="M82.623,59.861 L48.661,59.861 L48.661,25.988 L59.982,3.406 L76.963,3.406 L65.642,25.988 L82.623,25.988 L82.623,59.861 ZM3.377,25.988 L14.698,3.406 L31.679,3.406 L20.358,25.988 L37.340,25.988 L37.340,59.861 L3.377,59.861 L3.377,25.988 Z"/>
                                         </svg>
-                                        <p>Mollit anim laborum.Dvcuis aute iruxvfg dhjkolohr in re voluptate velit esscillumlore eu quife nrulla parihatur. Excghcepteur sfwsignjnt occa cupidatat non aute iruxvfg dhjinulpadeserunt mollitemnth incididbnt ut;o5tu layjobore mofllit anim. Mollit anim laborum.Dvcuis aute iruxvfg dhjkolohr in re voluptate velit esscillumlore eu quife nrulla parihatur. Excghcepteur sfwsignjn.</p>
+                                        <p>“I want to join David in thanking and congratulating the GCon team on your accomplishments. This has been a large project for us and this office move is of significant importance to our Company and our employees. You all have contributed to create a wonderful space for our employees to work with one another and have made the process to date smooth for us. Thank you and I hope you’re proud of your efforts and accomplishments.”</p>
                                     </div>
                                     <!-- founder -->
                                     <div class="testimonial-founder d-flex align-items-center">
                                        <div class="founder-text">
-                                            <span>Jessya Inn</span>
-                                            <p>Co Founder</p>
+                                            <span>Mr. Raviprasad M.Arch</span>
+                                            <p>Mizzle design Studio</p>
                                        </div>
                                     </div>
                                 </div>
                             </div>
+
+                            <div class="single-testimonial">
+                                 <!-- Testimonial Content -->
+                                <div class="testimonial-caption ">
+                                    <div class="testimonial-top-cap">
+                                        <!-- SVG icon -->
+                                        <svg xmlns="http://www.w3.org/2000/svg"xmlns:xlink="http://www.w3.org/1999/xlink"width="86px" height="63px">
+                                        <path fill-rule="evenodd"  stroke-width="1px" stroke="rgb(255, 95, 19)" fill-opacity="0" fill="rgb(0, 0, 0)"
+                                        d="M82.623,59.861 L48.661,59.861 L48.661,25.988 L59.982,3.406 L76.963,3.406 L65.642,25.988 L82.623,25.988 L82.623,59.861 ZM3.377,25.988 L14.698,3.406 L31.679,3.406 L20.358,25.988 L37.340,25.988 L37.340,59.861 L3.377,59.861 L3.377,25.988 Z"/>
+                                        </svg>
+                                        <p>“I want to join David in thanking and congratulating the GCon team on your accomplishments. This has been a large project for us and this office move is of significant importance to our Company and our employees. You all have contributed to create a wonderful space for our employees to work with one another and have made the process to date smooth for us. Thank you and I hope you’re proud of your efforts and accomplishments.”</p>
+                                    </div>
+                                    <!-- founder -->
+                                    <div class="testimonial-founder d-flex align-items-center">
+                                       <div class="founder-text">
+                                            <span>Mr. Senapathy</span>
+                                            <p>Meet Constructions Pvt ltd</p>
+                                       </div>
+                                    </div>
+                                </div>
+                            </div>
+
                         </div>
                     </div>
                </div>
